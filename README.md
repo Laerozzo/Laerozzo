@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laerozzo
+- 👋 Hi, I’m @Laerozzo (Lucas Reis)
 - 👀 I’m interested in BI, Data Analytics and Mobile Development
 - 🌱 I’m currently learning Python for Data Science, Dart, and SQL for MySQL Workbench
 - 💞️ I’m looking to collaborate on projects and with any programming logic ideas.
