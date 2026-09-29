@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Laerozzo (Lucas Reis)
-- 👀 I’m interested in BI, Data Analytics and Mobile Development
-- 🌱 I’m currently learning Python for Data Science, R, and SQL for SQL Management Studio
-- 💞️ I want to collaborate on projects and with any programming logic ideas.
 - 📫 How to reach me: lucas.apolonio.pro@gmail.com / lucas.apolonio.pro@outlook.com / www.linkedin.com/in/lucas-apol%C3%B4nio-reis-33243b115/
 
 <!---
